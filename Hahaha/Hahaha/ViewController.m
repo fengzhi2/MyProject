@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self brOne];
+    NSLog(@"something");
+    NSLog(@"brbrbrbr");
 }
 
 
