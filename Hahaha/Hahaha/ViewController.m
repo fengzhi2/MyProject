@@ -16,9 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self brOne];
     [self brTwo];
-    NSLog(@"something");
+    [self brOne];
+    NSLog(@"anotherThing");
     NSLog(@"brbrbrbr");
 }
 
