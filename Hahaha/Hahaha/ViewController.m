@@ -26,6 +26,11 @@
     
     NSLog(@"这是第一个分支代码");
 }
+
+-(void)brTwo{
+    NSLog(@"这是第二个分支代码");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
